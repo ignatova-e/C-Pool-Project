@@ -1,0 +1,15 @@
+/Users/evgeniaignatova/Desktop/git/C-Pool-Project/src/Par-1-Arrays/bin/Debug/net8.0/Par-1-Arrays
+/Users/evgeniaignatova/Desktop/git/C-Pool-Project/src/Par-1-Arrays/bin/Debug/net8.0/Par-1-Arrays.deps.json
+/Users/evgeniaignatova/Desktop/git/C-Pool-Project/src/Par-1-Arrays/bin/Debug/net8.0/Par-1-Arrays.runtimeconfig.json
+/Users/evgeniaignatova/Desktop/git/C-Pool-Project/src/Par-1-Arrays/bin/Debug/net8.0/Par-1-Arrays.dll
+/Users/evgeniaignatova/Desktop/git/C-Pool-Project/src/Par-1-Arrays/bin/Debug/net8.0/Par-1-Arrays.pdb
+/Users/evgeniaignatova/Desktop/git/C-Pool-Project/src/Par-1-Arrays/obj/Debug/net8.0/Par-1-Arrays.GeneratedMSBuildEditorConfig.editorconfig
+/Users/evgeniaignatova/Desktop/git/C-Pool-Project/src/Par-1-Arrays/obj/Debug/net8.0/Par-1-Arrays.AssemblyInfoInputs.cache
+/Users/evgeniaignatova/Desktop/git/C-Pool-Project/src/Par-1-Arrays/obj/Debug/net8.0/Par-1-Arrays.AssemblyInfo.cs
+/Users/evgeniaignatova/Desktop/git/C-Pool-Project/src/Par-1-Arrays/obj/Debug/net8.0/Par-1-Arrays.csproj.CoreCompileInputs.cache
+/Users/evgeniaignatova/Desktop/git/C-Pool-Project/src/Par-1-Arrays/obj/Debug/net8.0/Par-1-Arrays.sourcelink.json
+/Users/evgeniaignatova/Desktop/git/C-Pool-Project/src/Par-1-Arrays/obj/Debug/net8.0/Par-1-Arrays.dll
+/Users/evgeniaignatova/Desktop/git/C-Pool-Project/src/Par-1-Arrays/obj/Debug/net8.0/refint/Par-1-Arrays.dll
+/Users/evgeniaignatova/Desktop/git/C-Pool-Project/src/Par-1-Arrays/obj/Debug/net8.0/Par-1-Arrays.pdb
+/Users/evgeniaignatova/Desktop/git/C-Pool-Project/src/Par-1-Arrays/obj/Debug/net8.0/Par-1-Arrays.genruntimeconfig.cache
+/Users/evgeniaignatova/Desktop/git/C-Pool-Project/src/Par-1-Arrays/obj/Debug/net8.0/ref/Par-1-Arrays.dll
