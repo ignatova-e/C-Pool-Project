@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Par-1-Arrays")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ff2e0ec1b6ea7719419a6cd134d54c1da1f9b790")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+90e046e6454b23754825a40874a7a174d9949a44")]
 [assembly: System.Reflection.AssemblyProductAttribute("Par-1-Arrays")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Par-1-Arrays")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
