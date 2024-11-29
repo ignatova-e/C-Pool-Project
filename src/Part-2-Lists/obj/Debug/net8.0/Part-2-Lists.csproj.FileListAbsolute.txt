@@ -1,0 +1,15 @@
+/Users/evgeniaignatova/Desktop/git/C-Pool-Project/src/Part-2-Lists/bin/Debug/net8.0/Part-2-Lists
+/Users/evgeniaignatova/Desktop/git/C-Pool-Project/src/Part-2-Lists/bin/Debug/net8.0/Part-2-Lists.deps.json
+/Users/evgeniaignatova/Desktop/git/C-Pool-Project/src/Part-2-Lists/bin/Debug/net8.0/Part-2-Lists.runtimeconfig.json
+/Users/evgeniaignatova/Desktop/git/C-Pool-Project/src/Part-2-Lists/bin/Debug/net8.0/Part-2-Lists.dll
+/Users/evgeniaignatova/Desktop/git/C-Pool-Project/src/Part-2-Lists/bin/Debug/net8.0/Part-2-Lists.pdb
+/Users/evgeniaignatova/Desktop/git/C-Pool-Project/src/Part-2-Lists/obj/Debug/net8.0/Part-2-Lists.GeneratedMSBuildEditorConfig.editorconfig
+/Users/evgeniaignatova/Desktop/git/C-Pool-Project/src/Part-2-Lists/obj/Debug/net8.0/Part-2-Lists.AssemblyInfoInputs.cache
+/Users/evgeniaignatova/Desktop/git/C-Pool-Project/src/Part-2-Lists/obj/Debug/net8.0/Part-2-Lists.AssemblyInfo.cs
+/Users/evgeniaignatova/Desktop/git/C-Pool-Project/src/Part-2-Lists/obj/Debug/net8.0/Part-2-Lists.csproj.CoreCompileInputs.cache
+/Users/evgeniaignatova/Desktop/git/C-Pool-Project/src/Part-2-Lists/obj/Debug/net8.0/Part-2-Lists.sourcelink.json
+/Users/evgeniaignatova/Desktop/git/C-Pool-Project/src/Part-2-Lists/obj/Debug/net8.0/Part-2-Lists.dll
+/Users/evgeniaignatova/Desktop/git/C-Pool-Project/src/Part-2-Lists/obj/Debug/net8.0/refint/Part-2-Lists.dll
+/Users/evgeniaignatova/Desktop/git/C-Pool-Project/src/Part-2-Lists/obj/Debug/net8.0/Part-2-Lists.pdb
+/Users/evgeniaignatova/Desktop/git/C-Pool-Project/src/Part-2-Lists/obj/Debug/net8.0/Part-2-Lists.genruntimeconfig.cache
+/Users/evgeniaignatova/Desktop/git/C-Pool-Project/src/Part-2-Lists/obj/Debug/net8.0/ref/Part-2-Lists.dll
