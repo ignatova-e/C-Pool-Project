@@ -14,10 +14,24 @@ class Program
         {
             string[] words = newList.Split(' '); // Строка разбита на массив слов
             Array.Sort(words);  // Сортиоровка слов по убыванию
-            foreach (string word in words)
+            int count = words.Length;
+            for (int i = 0; i < count - 1; i++)
             {
-                Console.WriteLine(word); // Проверка: вывод массива слов
+                if (i == i + 1)
+                {
+                    Console.WriteLine(words[i]);
+                    i += 2;
+                }
+                else
+                {
+                    Console.WriteLine(words[i]);
+                    i++;
+                }
             }
+            // foreach (string word in words)
+            // {
+            //     Console.WriteLine(word); // Проверка: вывод массива слов
+            // }
         }
     }
 }
